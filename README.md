@@ -2,4 +2,4 @@
  12312...1231
 **fadssdfsd**
 
-[GitHub](https://octodex.github.com/suftocat)
+[GitHub](https://octodex.github.com/images/surftocat.png)
